@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1027663435064",
+    "firebase_url": "https://supernotes-50158-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "supernotes-50158",
+    "storage_bucket": "supernotes-50158.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1027663435064:android:a9e8a90a5db3a4dd7b9dcd",
+        "android_client_info": {
+          "package_name": "com.myapp.firebase_note_app_realtime_db"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmz4yGdnoRFs-e0VXoigJlvvcUQgcrsY4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
